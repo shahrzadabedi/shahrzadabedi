@@ -1,6 +1,6 @@
  Hi there 👋 I'm Shahrzad   
 ---
-I'm a senior software engineer specialized in .NET technologies. I'm very passionate about using microsoft technologies to develop software that solves human problems.    
+I'm a software engineer with over 10 years of experience, specialized in .NET technologies. I'm very passionate about using microsoft technologies to develop software that solves human problems.    
 ## :smiley: Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email or LinkedIn, or explore my repositories to see what I've been working on. Let's build something amazing together :handshake:
