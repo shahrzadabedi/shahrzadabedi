@@ -12,6 +12,7 @@ My Recent Open Source Projects
 ---
 | Name           | Status       | Description                         |
 |----------------|--------------|-------------------------------------|
+| [PayaSystem](https://github.com/shahrzadabedi/ShAbedi.PayaSystem)  |  :white_check_mark:       | A simulation of the Paya System built with .NET using Clean Architecture. Includes two services — API and background jobs — to handle Sheba requests, amount locking, and money transfer workflows. |
 | :speech_balloon: [Chat with Support](https://github.com/shahrzadabedi/ShAbedi.ChatWithSupport)    |  :white_check_mark:       | A **grpc** chat server that establishes chat connection between normal users and support users. |
 | :dollar: [Currency Converter](https://github.com/shahrzadabedi/CurrencyConverter)    |  :white_check_mark:  | A currency converter that can be configured with different exchange rates and coverts the currency symbols using **BFS algorithm** |
 | <img src="https://avatars.githubusercontent.com/u/29179238?v=4" width="15" height="15"> [Json in Entity Field](https://github.com/shahrzadabedi/CodeMazeGuides/tree/main/dotnet-efcore/EFCoreJsonInEntityField)  | :white_check_mark:    | This is the sample code for my article on [CodeMaze](https://code-maze.com/efcore-store-json-in-an-entity-field/) website about "How to Store JSON in an Entity Field With EF Core"  |
