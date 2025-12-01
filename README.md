@@ -27,7 +27,8 @@ My Recent Open Source Projects
 - **Tools**: ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 - **Databases**: ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- **Other**: ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-00897B?logo=api&logoColor=white)
+- **Other**: 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-00897B?logo=api&logoColor=white)
 <!--
 **shahrzadabedi/shahrzadabedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
