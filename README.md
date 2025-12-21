@@ -12,6 +12,7 @@ My Recent Open Source Projects
 ---
 | Name           | Status       | Description                         |
 |----------------|--------------|-------------------------------------|
+| [FlightReservation](https://github.com/shahrzadabedi/ShAbedi.FlightReservation)  |  :white_check_mark:       | Flight seat reservation demo showcasing how to use Redis, Redis Sentinel, and the RedLock algorithm to prevent double‑booking under heavy concurrency in a .NET API. | 
 | [PayaSystem](https://github.com/shahrzadabedi/ShAbedi.PayaSystem)  |  :white_check_mark:       | A simulation of the Paya System built with .NET using Clean Architecture. Includes two services — API and background jobs — to handle Sheba requests, amount locking, and money transfer workflows. |
 | :speech_balloon: [Chat with Support](https://github.com/shahrzadabedi/ShAbedi.ChatWithSupport)    |  :white_check_mark:       | A **grpc** chat server that establishes chat connection between normal users and support users. |
 | :dollar: [Currency Converter](https://github.com/shahrzadabedi/CurrencyConverter)    |  :white_check_mark:  | A currency converter that can be configured with different exchange rates and coverts the currency symbols using **BFS algorithm** |
